@@ -5,12 +5,7 @@ AguiarCristiano/AguiarCristiano is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center">Olá,eu sou o Cristiano Aguiar</h1>
-<h3 align="center">Apaixonado por Dados e suas possibilidades</h3>
-
-- 🔭 Estou trabalhando atualmente em DataViz no Projeto [Recursos Humanos](https://app.powerbi.com/view?r=eyJrIjoiOTY5MTk3NjAtNzk2NC00ZTczLTkzOTgtODdjOGZiNWUzZDBlIiwidCI6ImM0NjgwNmJiLTQ2YWYtNDdiNi1iYWIzLWE0MmRjODg4MjRjZCJ9&pageName=ReportSection)
-
-- 🌱 Atualmente estou aprendendo **Python**
+<h1 align="center">Olá, eu sou o Cristiano Aguiar</h1>
 
 - 📫 Contato **cristianoaguiar.psy@gmail.com**
 
